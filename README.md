@@ -1,5 +1,7 @@
 Medicare Provider Data Analysis
+
 Exploratory Data Analysis on Medicare Provider Dataset using Python
+
 Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a Medicare provider dataset to understand reimbursement patterns across different states and medical specialties. The objective was to clean the dataset, explore billing behavior, and extract meaningful insights related to Medicare payments.
